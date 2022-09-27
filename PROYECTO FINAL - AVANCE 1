@@ -1,0 +1,24 @@
+Andres Javier Galindo -- A01793927
+Carlos Jesús Peñaloza Julio -- A01793931
+
+RESPUESTAS:
+1. El nombre que caracteriza el conjunto de datos es: USDA-ARS Colorado Maize Water Productivity Dataset 2012-2013
+
+2. Fue generado por el Departamento de Agricultura de los Estados Unidos.
+
+3. La organización que lo generó fue el Departamento de Agricultura de los Estados Unidos.
+
+4. Se encontraron en la misma base de datos un archivo .csv y otro .xml:
+https://us-usda-gov.linked.data.world/d/1acabe89-2436-428d-ab7b-fa17b725bf55/file/comma-separated-values-file-2.csv
+https://us-usda-gov.linked.data.world/d/399b1624-d167-46f7-ab4e-03ab505ffae1/file/ms-excel-file-1.xml
+
+5. Describe el conjunto de datos. ¿Qué datos contiene?
+
+6. ¿Cuáles son algunas de las preguntas de investigación que podría responder con estos datos? Enumere al menos OCHO (no responda las preguntas)
+      ¿Cómo se podría hacer predicción de un cultivo de maíz por medio de un algoritmo supervisado?
+      ¿Cómo se podría mejorar el sistema de riego o de irrigación del suelo usando machine learning?
+      Teniendo en cuenta el comportamiento el efecto del clima, ¿Es posible que el algoritmo de predicción logre aportar en la mejora de la producción de maíz?
+      ¿Cómo podría mejorarse el gasto del recurso hídrico haciendo análisis de grandes volúmenes de datos provenientes de la tecnificación del cultivo de maíz?
+      
+7. ¿Qué actor (empresa, sector de la sociedad, organismo descentralizado, gobierno, etc.) estaría interesado en las preguntas mencionadas que identificó?
+Partiendo de que estamos considerando la mejora de la producción de maíz aplicando algoritmo de Machine Learning y que la analítica estaría al alcance del dueño del cultivo para tomar mejores decisiones, la empresa privada sería la más interesada, seguidos en igual proporción del Ministerio de Agricultura así como las entidades relacionadas con ésta.
